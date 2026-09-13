@@ -1,0 +1,29 @@
+{
+  "name": "openclaw-hermes-depin",
+  "version": "1.0.0",
+  "description": "Run OpenClaw Web Automation & Hermes AI Agents 100% Free on Your PC powered by MYCA DePIN Mesh & Zero-Cost Semantic Cache",
+  "main": "src/index.js",
+  "type": "module",
+  "bin": {
+    "openclaw-hermes": "./bin/cli.js"
+  },
+  "scripts": {
+    "start": "node bin/cli.js",
+    "crawl": "node bin/cli.js crawl",
+    "agent": "node bin/cli.js agent",
+    "test": "node tests/runner.test.js"
+  },
+  "keywords": [
+    "openclaw",
+    "hermes-agent",
+    "depin",
+    "ai-agents",
+    "web-crawler",
+    "semantic-cache",
+    "myca-network",
+    "free-llm",
+    "zero-gas"
+  ],
+  "author": "MYCA Independent Developer Collective",
+  "license": "MIT"
+}

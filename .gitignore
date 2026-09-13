@@ -1,0 +1,6 @@
+node_modules/
+.myca_cache/
+.myca_telemetry.json
+.DS_Store
+.env
+*.log
