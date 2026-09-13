@@ -5,8 +5,8 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-emerald.svg)](https://opensource.org/licenses/MIT)
 [![Node.js](https://img.shields.io/badge/Node.js-18%2B-cyan.svg)](https://nodejs.org)
-[![DePIN](https://img.shields.io/badge/DePIN-Decentralized%20Mesh-green.svg)](https://mycai.pro)
-[![Zero-Cost Cache](https://img.shields.io/badge/Semantic%20Cache-Zero--Gas-purple.svg)](https://mycai.pro/depin/mindcast-node)
+[![DePIN](https://img.shields.io/badge/DePIN-Decentralized%20Mesh-green.svg)](https://github.com/brienteth/openclaw-hermes-depin)
+[![Zero-Cost Cache](https://img.shields.io/badge/Semantic%20Cache-Zero--Gas-purple.svg)](https://github.com/brienteth/openclaw-hermes-depin)
 
 ---
 
@@ -54,7 +54,7 @@
 
 ### 1. Clone & Install
 ```bash
-git clone https://github.com/brienteth/openclaw-hermes-depin.git
+git clone https://github.com/your-username/openclaw-hermes-depin.git
 cd openclaw-hermes-depin
 ```
 *(Zero external npm dependencies required — runs purely on modern Node.js native standard libraries!)*
@@ -99,9 +99,8 @@ The runner will automatically detect local neural weights and route full reasoni
 
 This project is built independently as an open-source public good for AI sovereignty and decentralized computing.
 
-To support ongoing infrastructure development, edge node relays, and semantic cache servers:
+To support ongoing open-source infrastructure development, edge relays, and semantic cache optimizations:
 * **Community Fair-Launch Token:** Available on **Pond Family** / DEX.
-* **Genesis Spore Node NFT:** Mint at **[https://mycai.pro/depin/mindcast-node](https://mycai.pro/depin/mindcast-node)** (80% of $NOOS used to mint is permanently burned on-chain).
 
 ---
 
